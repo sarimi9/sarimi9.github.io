@@ -39,9 +39,19 @@ These explanations are useful in understanding the timing of currency movements.
 
 ---
 
-## Why the Pressure Persists
+## The Pattern of Recurrence
 
-[Explain why the issue keeps returning.]
+Pressure on the rupee has not appeared only once or twice in response to isolated events. Instead, similar episodes have emerged repeatedly over long periods of time. These episodes have occurred under different global conditions and across different domestic policy settings. While the immediate triggers may vary, the overall pattern appears familiar.
+
+At different points, currency pressure has been linked to global financial tightening, commodity price shocks, or sudden changes in investor sentiment. In each case, the explanation focuses on a specific event or shock. However, the return of similar pressures in different circumstances suggests that these events may be acting on underlying conditions rather than creating entirely new problems.
+
+If short-term shocks were the primary cause of currency stress, one would expect pressure to ease and remain subdued once those shocks pass. Periods of relative calm have indeed followed some episodes. Yet, over time, pressure has tended to re-emerge, often in response to a different set of triggers. This repeated cycle raises questions about whether temporary explanations are sufficient on their own.
+
+Recurring outcomes usually point to features that are built into a system. In many contexts, repeated stress is less about individual events and more about how underlying structures respond to change. When the same type of pressure appears under varied conditions, it becomes useful to look beyond surface-level causes and examine deeper characteristics of the system.
+
+This does not imply that short-term factors are irrelevant. They shape the timing and intensity of currency movements and help explain why pressure becomes visible at particular moments. However, the tendency for similar episodes to recur suggests that these factors may be interacting with more persistent conditions.
+
+Recognising this pattern of recurrence helps shift the focus from isolated events to longer-term dynamics. It opens the space for a structural perspective, which asks how an economy’s external position is organised and why it remains sensitive to repeated external shocks. This shift in perspective is necessary before engaging with questions of diagnosis or reform.
 
 ---
 
