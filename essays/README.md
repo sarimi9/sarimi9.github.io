@@ -11,3 +11,6 @@ The focus is on understanding how large systems operate, where they fail, and wh
 - **Why India’s Rupee Pressure Is a Structural Problem, Not a Cyclical One**  
   *January 7, 2026*  
 [Read →](/essays/2026-01-12-rupee-pressure-structural.html)
+- **Financing the Imbalance: Capital Inflows and India’s Currency Stability**  
+  *January 10, 2026*  
+[Read →](/essays/2026-01-10-financing-the-imbalance.html)
