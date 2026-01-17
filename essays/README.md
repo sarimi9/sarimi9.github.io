@@ -15,11 +15,9 @@ The articles focus on how foreign exchange is earned and financed over time, wit
 - **Financing the Imbalance: Capital Inflows and India’s Currency Stability**  
   *January 10, 2026*  
 [Read →](/essays/2026-01-10-financing-the-imbalance.html)
-
-## In Progress
-
-### Export Composition and External Stability: Evidence from India’s Balance of Payments
-Analyses why the composition of exports, rather than export volume alone, plays a central role in shaping long-term external-sector resilience and recurring currency pressure.
+- **Export Composition and External Stability: Evidence from India’s Balance of Payments**  
+  *January 17, 2026*  
+[Read →](/essays/2026-01-17-export-composition-external-stability-india.html)
 
 ---
 
