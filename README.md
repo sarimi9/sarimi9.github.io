@@ -27,7 +27,7 @@ SSRN Working Paper
 
 This paper develops a conceptual framework for understanding recurring pressure on the Indian rupee by distinguishing between cyclical triggers and deeper external-sector characteristics. It reframes currency weakness as a structural outcome of how foreign exchange is generated and financed over time.
 
-[SSRN link to be added]
+[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6040694)
 
 ---
 
